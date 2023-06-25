@@ -16,17 +16,7 @@ export default {
       serif: ['Merriweather', 'serif'],
     },
     extend: {
-      spacing: {
-        '128': '32rem',
-        '144': '36rem',
-      },
-      borderRadius: {
-        '4xl': '2rem',
-      },
-      backgroundImage: {
-        'hero-pattern': "url('/img/hero-pattern.svg')",
-        'footer-texture': "url('/img/footer-texture.png')",
-      }
+      
     }
   },
   plugins: [],
